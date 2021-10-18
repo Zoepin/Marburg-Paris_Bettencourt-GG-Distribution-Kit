@@ -1,0 +1,1752 @@
+LOCUS       3C5OSN_EF_pMB1_camR     2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7fd-d2zw29j                                       
+VERSION     urn.local.igem02.7fd-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site Ori"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc tagctggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C1RSI_EF_pMB1_camR     2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f2-d2zw29j                                       
+VERSION     urn.local.igem02.7f2-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          complement(12..15)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 ggtctcgcgc ttgttggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
+LOCUS       3C1LI_EF_pMB1_camR      2529 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7ez-d2zw29j                                       
+VERSION     urn.local.igem02.7ez-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     terminator      complement(42..98)
+                     /label="L3S2P55"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          99..398
+                     /label="Spacer001"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      399..450
+                     /label="L3S1P53 "
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     unsure          complement(451..454)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     unsure          complement(462..465)
+                     /label="F"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      503..560
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     rep_origin      complement(755..1343)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      1526..1620
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     CDS             complement(1641..1780)
+                     /label="cat"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     exon            complement(1641..1780)
+                     /label="Translation 1780-1641"
+     CDS             complement(1749..2300)
+                     /label="cat"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     exon            complement(1749..2300)
+                     /label="Translation 2300-1749"
+     unsure          complement(1864..1869)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          1866..1866
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1866..1866
+                     /label="G"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     terminator      2484..2527
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc tggaccaaaa cgaaaaaaga
+       61 cgcttttcag cgtcttattg ttcgtctttg gtaccgagct gtgtctgtgg ctgagagagc
+      121 aggtacaaga taaacccgtc tatattctca aattctttca ctatcgcact tgttttatgt
+      181 gaagtccaga tatggactct ggaacccaac tcggagctct gcgggtagag cgtcaaccat
+      241 tcgaacgttg cgcggtcttc ggagaaccgt aagaggtaat atactccgat attcatttca
+      301 gcggtagctg agtccgtcag ttgatacggt gcgtacccgg agcaaatagg agaggcggtt
+      361 gtagtggggg gaatggatag caagctgcgg gtagacctcc aattattgaa ggcctcccaa
+      421 atcggggggc cttttttatt gataacaaaa caccggagac gagcttgaga ccactcatcg
+      481 cgactagtag cggccgctgc agtccggcaa aaaagggcaa ggtgtcacca ccctgccctt
+      541 tttctttaaa accgaaaaga ttacttcgcg ttatgcaggc ttcctcgctc actgactcgc
+      601 tgcgctcggt cgttcggctg cggcgagcgg tatcagctca ctcaaaggcg gtaatacggt
+      661 tatccacaga atcaggggat aacgcaggaa agaacatgtg agcaaaaggc cagcaaaagg
+      721 ccaggaaccg taaaaaggcc gcgttgctgg cgtttttcca caggctccgc ccccctgacg
+      781 agcatcacaa aaatcgacgc tcaagtcaga ggtggcgaaa cccgacagga ctataaagat
+      841 accaggcgtt tccccctgga agctccctcg tgcgctctcc tgttccgacc ctgccgctta
+      901 ccggatacct gtccgccttt ctcccttcgg gaagcgtggc gctttctcat agctcacgct
+      961 gtaggtatct cagttcggtg taggtcgttc gctccaagct gggctgtgtg cacgaacccc
+     1021 ccgttcagcc cgaccgctgc gccttatccg gtaactatcg tcttgagtcc aacccggtaa
+     1081 gacacgactt atcgccactg gcagcagcca ctggtaacag gattagcaga gcgaggtatg
+     1141 taggcggtgc tacagagttc ttgaagtggt ggcctaacta cggctacact agaagaacag
+     1201 tatttggtat ctgcgctctg ctgaagccag ttaccttcgg aaaaagagtt ggtagctctt
+     1261 gatccggcaa acaaaccacc gctggtagcg gtggtttttt tgtttgcaag cagcagatta
+     1321 cgcgcagaaa aaaaggatct caagaagatc ctttgatctt ttctacgggg tctgacgctc
+     1381 agtggaacga aaactcacgt taagggattt tggtcatgag attatcaaaa aggatcttca
+     1441 cctagatcct tttaaattaa aaatgaagtt ttaaatcaat ctaaagtata tatgagtaaa
+     1501 cttggtctga cagctcgagg cttggattct caccaataaa aaacgcccgg cggcaaccga
+     1561 gcgttctgaa caaatccaga tggagttctg aggtcattac tggatctatc aacaggagtc
+     1621 caagcgagct cgatatcaaa ttacgccccg ccctgccact catcgcagta ctgttgtaat
+     1681 tcattaagca ttctgccgac atggaagcca tcacaaacgg catgatgaac ctgaatcgcc
+     1741 agcggcatca gcaccttgtc gccttgcgta taatatttgc ccatggtgaa aacgggggcg
+     1801 aagaagttgt ccatattggc cacgtttaaa tcaaaactgg tgaaactcac ccagggattg
+     1861 gctgaaacga aaaacatatt ctcaataaac cctttaggga aataggccag gttttcaccg
+     1921 taacacgcca catcttgcga atatatgtgt agaaactgcc ggaaatcgtc gtggtattca
+     1981 ctccagagcg atgaaaacgt ttcagtttgc tcatggaaaa cggtgtaaca agggtgaaca
+     2041 ctatcccata tcaccagctc accgtctttc attgccatac gaaattccgg atgagcattc
+     2101 atcaggcggg caagaatgtg aataaaggcc ggataaaact tgtgcttatt tttctttacg
+     2161 gtctttaaaa aggccgtaat atccagctga acggtctggt tataggtaca ttgagcaact
+     2221 gactgaaatg cctcaaaatg ttctttacga tgccattggg atatatcaac ggtggtatat
+     2281 ccagtgattt ttttctccat tttagcttcc ttagctcctg aaaatctcga taactcaaaa
+     2341 aatacgcccg gtagtgatct tatttcatta tggtgaaagt tggaacctct tacgtgcccg
+     2401 atcaactcga gtgccacctg acgtctaaga aaccattatt atcatgacat taacctataa
+     2461 aaataggcgt atcacgaggc agaatttcag ataaaaaaaa tccttagctt tcgctaagga
+     2521 tgatttctg
+//
+LOCUS       3C1SN_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7ey-d2zw29j                                       
+VERSION     urn.local.igem02.7ey-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc ttactggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C3SN_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f6-d2zw29j                                       
+VERSION     urn.local.igem02.7f6-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc tgcttggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C1SI_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f1-d2zw29j                                       
+VERSION     urn.local.igem02.7f1-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          complement(12..15)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 ggtctcgcgc tcaccggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
+LOCUS       3C5SI_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7ff-d2zw29k                                       
+VERSION     urn.local.igem02.7ff-d2zw29k                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          complement(12..15)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+ORIGIN
+        1 ggtctcgcgc ttaccggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
+LOCUS       3C2SN_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f3-d2zw29j                                       
+VERSION     urn.local.igem02.7f3-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc taatgggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C1RLI_EF_pMB1_camR     2529 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f0-d2zw29j                                       
+VERSION     urn.local.igem02.7f0-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     terminator      complement(1..57)
+                     /label="L3S2P55"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     unsure          58..357
+                     /label="Spacer001"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      358..409
+                     /label="L3S1P53 "
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          complement(410..413)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     unsure          complement(421..424)
+                     /label="F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     terminator      462..519
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     rep_origin      complement(714..1302)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     terminator      1485..1579
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     CDS             complement(1600..1739)
+                     /label="cat"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     exon            complement(1600..1739)
+                     /label="Translation 1739-1600"
+     CDS             complement(1708..2259)
+                     /label="cat"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     exon            complement(1708..2259)
+                     /label="Translation 2259-1708"
+     unsure          complement(1823..1828)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    1825..1825
+                     /label="G"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     unsure          1825..1825
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     terminator      2443..2486
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     unsure          2526..2529
+                     /label="E"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+ORIGIN
+        1 ggaccaaaac gaaaaaagac gcttttcagc gtcttattgt tcgtctttgg taccgagctg
+       61 tgtctgtggc tgagagagca ggtacaagat aaacccgtct atattctcaa attctttcac
+      121 tatcgcactt gttttatgtg aagtccagat atggactctg gaacccaact cggagctctg
+      181 cgggtagagc gtcaaccatt cgaacgttgc gcggtcttcg gagaaccgta agaggtaata
+      241 tactccgata ttcatttcag cggtagctga gtccgtcagt tgatacggtg cgtacccgga
+      301 gcaaatagga gaggcggttg tagtgggggg aatggatagc aagctgcggg tagacctcca
+      361 attattgaag gcctcccaaa tcggggggcc ttttttattg ataacaaaat gttggagacg
+      421 agcttgagac cactcatcgc gactagtagc ggccgctgca gtccggcaaa aaagggcaag
+      481 gtgtcaccac cctgcccttt ttctttaaaa ccgaaaagat tacttcgcgt tatgcaggct
+      541 tcctcgctca ctgactcgct gcgctcggtc gttcggctgc ggcgagcggt atcagctcac
+      601 tcaaaggcgg taatacggtt atccacagaa tcaggggata acgcaggaaa gaacatgtga
+      661 gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg cgttgctggc gtttttccac
+      721 aggctccgcc cccctgacga gcatcacaaa aatcgacgct caagtcagag gtggcgaaac
+      781 ccgacaggac tataaagata ccaggcgttt ccccctggaa gctccctcgt gcgctctcct
+      841 gttccgaccc tgccgcttac cggatacctg tccgcctttc tcccttcggg aagcgtggcg
+      901 ctttctcata gctcacgctg taggtatctc agttcggtgt aggtcgttcg ctccaagctg
+      961 ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg ccttatccgg taactatcgt
+     1021 cttgagtcca acccggtaag acacgactta tcgccactgg cagcagccac tggtaacagg
+     1081 attagcagag cgaggtatgt aggcggtgct acagagttct tgaagtggtg gcctaactac
+     1141 ggctacacta gaagaacagt atttggtatc tgcgctctgc tgaagccagt taccttcgga
+     1201 aaaagagttg gtagctcttg atccggcaaa caaaccaccg ctggtagcgg tggttttttt
+     1261 gtttgcaagc agcagattac gcgcagaaaa aaaggatctc aagaagatcc tttgatcttt
+     1321 tctacggggt ctgacgctca gtggaacgaa aactcacgtt aagggatttt ggtcatgaga
+     1381 ttatcaaaaa ggatcttcac ctagatcctt ttaaattaaa aatgaagttt taaatcaatc
+     1441 taaagtatat atgagtaaac ttggtctgac agctcgaggc ttggattctc accaataaaa
+     1501 aacgcccggc ggcaaccgag cgttctgaac aaatccagat ggagttctga ggtcattact
+     1561 ggatctatca acaggagtcc aagcgagctc gatatcaaat tacgccccgc cctgccactc
+     1621 atcgcagtac tgttgtaatt cattaagcat tctgccgaca tggaagccat cacaaacggc
+     1681 atgatgaacc tgaatcgcca gcggcatcag caccttgtcg ccttgcgtat aatatttgcc
+     1741 catggtgaaa acgggggcga agaagttgtc catattggcc acgtttaaat caaaactggt
+     1801 gaaactcacc cagggattgg ctgaaacgaa aaacatattc tcaataaacc ctttagggaa
+     1861 ataggccagg ttttcaccgt aacacgccac atcttgcgaa tatatgtgta gaaactgccg
+     1921 gaaatcgtcg tggtattcac tccagagcga tgaaaacgtt tcagtttgct catggaaaac
+     1981 ggtgtaacaa gggtgaacac tatcccatat caccagctca ccgtctttca ttgccatacg
+     2041 aaattccgga tgagcattca tcaggcgggc aagaatgtga ataaaggccg gataaaactt
+     2101 gtgcttattt ttctttacgg tctttaaaaa ggccgtaata tccagctgaa cggtctggtt
+     2161 ataggtacat tgagcaactg actgaaatgc ctcaaaatgt tctttacgat gccattggga
+     2221 tatatcaacg gtggtatatc cagtgatttt tttctccatt ttagcttcct tagctcctga
+     2281 aaatctcgat aactcaaaaa atacgcccgg tagtgatctt atttcattat ggtgaaagtt
+     2341 ggaacctctt acgtgcccga tcaactcgag tgccacctga cgtctaagaa accattatta
+     2401 tcatgacatt aacctataaa aataggcgta tcacgaggca gaatttcaga taaaaaaaat
+     2461 ccttagcttt cgctaaggat gatttctgga attcgcggcc gcttctagag cgatgagtgg
+     2521 tctcgcgct
+//
+LOCUS       3C2LI_EF_pMB1_camR      2534 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f4-d2zw29j                                       
+VERSION     urn.local.igem02.7f4-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     terminator      complement(1..57)
+                     /label="L3S2P22 "
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          58..357
+                     /label="Spacer0002"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     terminator      358..414
+                     /label="L3S2P56 "
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     unsure          complement(415..418)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          complement(426..429)
+                     /label="F"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      467..524
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     rep_origin      complement(719..1307)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     terminator      1490..1584
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     CDS             complement(1605..1744)
+                     /label="cat"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     exon            complement(1605..1744)
+                     /label="Translation 1744-1605"
+     CDS             complement(1713..2264)
+                     /label="cat"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     exon            complement(1713..2264)
+                     /label="Translation 2264-1713"
+     unsure          complement(1828..1833)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          1830..1830
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1830..1830
+                     /label="G"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      2448..2491
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          2531..2534
+                     /label="E"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+ORIGIN
+        1 ggaccaaaac gaaaaaaggc cgctttcgcg gcctcttttc tggaatttgg taccgagtcg
+       61 acaccctacc gtatcgctgt ggcaggcaca ggatctaacc ggtcctggac cggcgtaagt
+      121 tgctgtacag ccaaatcttc cgtactaatt ctacaggatt tgtcaactgc aaacgaattt
+      181 ctagtcggaa cggatcacgt gcaccggggt atgccgtggt tgaatatcgg cacatgaggg
+      241 gctcgtggga cacttccaga actgtctggc gtgcgaagtc tctgctaaat gcaaaacagt
+      301 caggactcgt tacagctcgt gtatgggagc tccgggtagg ccgatcgtca attgcggctc
+      361 ggtaccaaat tttcgaaaaa agacgctgaa aagcgtcttt tttcgttttg gtccagtagg
+      421 agacgagctt gagaccactc atcgcgacta gtagcggccg ctgcagtccg gcaaaaaagg
+      481 gcaaggtgtc accaccctgc cctttttctt taaaaccgaa aagattactt cgcgttatgc
+      541 aggcttcctc gctcactgac tcgctgcgct cggtcgttcg gctgcggcga gcggtatcag
+      601 ctcactcaaa ggcggtaata cggttatcca cagaatcagg ggataacgca ggaaagaaca
+      661 tgtgagcaaa aggccagcaa aaggccagga accgtaaaaa ggccgcgttg ctggcgtttt
+      721 tccacaggct ccgcccccct gacgagcatc acaaaaatcg acgctcaagt cagaggtggc
+      781 gaaacccgac aggactataa agataccagg cgtttccccc tggaagctcc ctcgtgcgct
+      841 ctcctgttcc gaccctgccg cttaccggat acctgtccgc ctttctccct tcgggaagcg
+      901 tggcgctttc tcatagctca cgctgtaggt atctcagttc ggtgtaggtc gttcgctcca
+      961 agctgggctg tgtgcacgaa ccccccgttc agcccgaccg ctgcgcctta tccggtaact
+     1021 atcgtcttga gtccaacccg gtaagacacg acttatcgcc actggcagca gccactggta
+     1081 acaggattag cagagcgagg tatgtaggcg gtgctacaga gttcttgaag tggtggccta
+     1141 actacggcta cactagaaga acagtatttg gtatctgcgc tctgctgaag ccagttacct
+     1201 tcggaaaaag agttggtagc tcttgatccg gcaaacaaac caccgctggt agcggtggtt
+     1261 tttttgtttg caagcagcag attacgcgca gaaaaaaagg atctcaagaa gatcctttga
+     1321 tcttttctac ggggtctgac gctcagtgga acgaaaactc acgttaaggg attttggtca
+     1381 tgagattatc aaaaaggatc ttcacctaga tccttttaaa ttaaaaatga agttttaaat
+     1441 caatctaaag tatatatgag taaacttggt ctgacagctc gaggcttgga ttctcaccaa
+     1501 taaaaaacgc ccggcggcaa ccgagcgttc tgaacaaatc cagatggagt tctgaggtca
+     1561 ttactggatc tatcaacagg agtccaagcg agctcgatat caaattacgc cccgccctgc
+     1621 cactcatcgc agtactgttg taattcatta agcattctgc cgacatggaa gccatcacaa
+     1681 acggcatgat gaacctgaat cgccagcggc atcagcacct tgtcgccttg cgtataatat
+     1741 ttgcccatgg tgaaaacggg ggcgaagaag ttgtccatat tggccacgtt taaatcaaaa
+     1801 ctggtgaaac tcacccaggg attggctgaa acgaaaaaca tattctcaat aaacccttta
+     1861 gggaaatagg ccaggttttc accgtaacac gccacatctt gcgaatatat gtgtagaaac
+     1921 tgccggaaat cgtcgtggta ttcactccag agcgatgaaa acgtttcagt ttgctcatgg
+     1981 aaaacggtgt aacaagggtg aacactatcc catatcacca gctcaccgtc tttcattgcc
+     2041 atacgaaatt ccggatgagc attcatcagg cgggcaagaa tgtgaataaa ggccggataa
+     2101 aacttgtgct tatttttctt tacggtcttt aaaaaggccg taatatccag ctgaacggtc
+     2161 tggttatagg tacattgagc aactgactga aatgcctcaa aatgttcttt acgatgccat
+     2221 tgggatatat caacggtggt atatccagtg atttttttct ccattttagc ttccttagct
+     2281 cctgaaaatc tcgataactc aaaaaatacg cccggtagtg atcttatttc attatggtga
+     2341 aagttggaac ctcttacgtg cccgatcaac tcgagtgcca cctgacgtct aagaaaccat
+     2401 tattatcatg acattaacct ataaaaatag gcgtatcacg aggcagaatt tcagataaaa
+     2461 aaaatcctta gctttcgcta aggatgattt ctggaattcg cggccgcttc tagagcgatg
+     2521 agtggtctcg cgct
+//
+LOCUS       3C3LI_EF_pMB1_camR      2529 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f7-d2zw29j                                       
+VERSION     urn.local.igem02.7f7-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     terminator      complement(1..57)
+                     /label="L3S2P53 "
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     unsure          58..357
+                     /label="Spacer003"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      358..409
+                     /label="L3S1P53 "
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     unsure          complement(410..413)
+                     /label="LVL 2 fusion site inverted"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     unsure          complement(421..424)
+                     /label="F"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     terminator      462..519
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     rep_origin      complement(714..1302)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     terminator      1485..1579
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CDS             complement(1600..1739)
+                     /label="cat"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     exon            complement(1600..1739)
+                     /label="Translation 1739-1600"
+     CDS             complement(1708..2259)
+                     /label="cat"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     exon            complement(1708..2259)
+                     /label="Translation 2259-1708"
+     unsure          complement(1823..1828)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    1825..1825
+                     /label="G"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     unsure          1825..1825
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      2443..2486
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     unsure          2526..2529
+                     /label="E"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+ORIGIN
+        1 ggaccaaaac gaaaaaagac gcttttcagc gtcttcaata attggtttgg taccgagatt
+       61 cgttgttgac ttcatcgtca cgataaagca cgacaagtcc cagcctgtga gtgcgacccg
+      121 aaattgtagg tagacactca cgctcccccc gatatcagac agcgtgctaa tgaaagcctt
+      181 ccgatcttcg gataaggccc aagctcagca catgaacgga tcagtggtag gtgtctcaca
+      241 acccaatcgt ggtgacaata cgaatgtcca aatattgcct cttggcgggt agattccgtt
+      301 acactttaca gccatcataa caaccagatg agaatcgatg gtattcttgg acccgcgcca
+      361 attattgaag gcctcccaaa tcggggggcc ttttttattg ataacaaaac attggagacg
+      421 agcttgagac cactcatcgc gactagtagc ggccgctgca gtccggcaaa aaagggcaag
+      481 gtgtcaccac cctgcccttt ttctttaaaa ccgaaaagat tacttcgcgt tatgcaggct
+      541 tcctcgctca ctgactcgct gcgctcggtc gttcggctgc ggcgagcggt atcagctcac
+      601 tcaaaggcgg taatacggtt atccacagaa tcaggggata acgcaggaaa gaacatgtga
+      661 gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg cgttgctggc gtttttccac
+      721 aggctccgcc cccctgacga gcatcacaaa aatcgacgct caagtcagag gtggcgaaac
+      781 ccgacaggac tataaagata ccaggcgttt ccccctggaa gctccctcgt gcgctctcct
+      841 gttccgaccc tgccgcttac cggatacctg tccgcctttc tcccttcggg aagcgtggcg
+      901 ctttctcata gctcacgctg taggtatctc agttcggtgt aggtcgttcg ctccaagctg
+      961 ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg ccttatccgg taactatcgt
+     1021 cttgagtcca acccggtaag acacgactta tcgccactgg cagcagccac tggtaacagg
+     1081 attagcagag cgaggtatgt aggcggtgct acagagttct tgaagtggtg gcctaactac
+     1141 ggctacacta gaagaacagt atttggtatc tgcgctctgc tgaagccagt taccttcgga
+     1201 aaaagagttg gtagctcttg atccggcaaa caaaccaccg ctggtagcgg tggttttttt
+     1261 gtttgcaagc agcagattac gcgcagaaaa aaaggatctc aagaagatcc tttgatcttt
+     1321 tctacggggt ctgacgctca gtggaacgaa aactcacgtt aagggatttt ggtcatgaga
+     1381 ttatcaaaaa ggatcttcac ctagatcctt ttaaattaaa aatgaagttt taaatcaatc
+     1441 taaagtatat atgagtaaac ttggtctgac agctcgaggc ttggattctc accaataaaa
+     1501 aacgcccggc ggcaaccgag cgttctgaac aaatccagat ggagttctga ggtcattact
+     1561 ggatctatca acaggagtcc aagcgagctc gatatcaaat tacgccccgc cctgccactc
+     1621 atcgcagtac tgttgtaatt cattaagcat tctgccgaca tggaagccat cacaaacggc
+     1681 atgatgaacc tgaatcgcca gcggcatcag caccttgtcg ccttgcgtat aatatttgcc
+     1741 catggtgaaa acgggggcga agaagttgtc catattggcc acgtttaaat caaaactggt
+     1801 gaaactcacc cagggattgg ctgaaacgaa aaacatattc tcaataaacc ctttagggaa
+     1861 ataggccagg ttttcaccgt aacacgccac atcttgcgaa tatatgtgta gaaactgccg
+     1921 gaaatcgtcg tggtattcac tccagagcga tgaaaacgtt tcagtttgct catggaaaac
+     1981 ggtgtaacaa gggtgaacac tatcccatat caccagctca ccgtctttca ttgccatacg
+     2041 aaattccgga tgagcattca tcaggcgggc aagaatgtga ataaaggccg gataaaactt
+     2101 gtgcttattt ttctttacgg tctttaaaaa ggccgtaata tccagctgaa cggtctggtt
+     2161 ataggtacat tgagcaactg actgaaatgc ctcaaaatgt tctttacgat gccattggga
+     2221 tatatcaacg gtggtatatc cagtgatttt tttctccatt ttagcttcct tagctcctga
+     2281 aaatctcgat aactcaaaaa atacgcccgg tagtgatctt atttcattat ggtgaaagtt
+     2341 ggaacctctt acgtgcccga tcaactcgag tgccacctga cgtctaagaa accattatta
+     2401 tcatgacatt aacctataaa aataggcgta tcacgaggca gaatttcaga taaaaaaaat
+     2461 ccttagcttt cgctaaggat gatttctgga attcgcggcc gcttctagag cgatgagtgg
+     2521 tctcgcgct
+//
+LOCUS       3C3SI_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f8-d2zw29j                                       
+VERSION     urn.local.igem02.7f8-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          complement(12..15)
+                     /label="LVL 2 fusion site inverted"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+ORIGIN
+        1 ggtctcgcgc tcattggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
+LOCUS       3C4SN_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f9-d2zw29j                                       
+VERSION     urn.local.igem02.7f9-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc tggtaggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C4LI_EF_pMB1_camR      2529 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7fa-d2zw29j                                       
+VERSION     urn.local.igem02.7fa-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     terminator      complement(1..57)
+                     /label="L3S2P52 "
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          58..357
+                     /label="Spacer004"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      358..409
+                     /label="L3S1P56 "
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     unsure          complement(410..413)
+                     /label="LVL2 fusion site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     unsure          complement(421..424)
+                     /label="F"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     terminator      462..519
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     rep_origin      complement(714..1302)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     terminator      1485..1579
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     CDS             complement(1600..1739)
+                     /label="cat"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     exon            complement(1600..1739)
+                     /label="Translation 1739-1600"
+     CDS             complement(1708..2259)
+                     /label="cat"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     exon            complement(1708..2259)
+                     /label="Translation 2259-1708"
+     unsure          complement(1823..1828)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    1825..1825
+                     /label="G"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     unsure          1825..1825
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      2443..2486
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     unsure          2526..2529
+                     /label="E"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+ORIGIN
+        1 ggaccaaaac gaaaaaagac gcttttcagc gtctttttag ttagatttgg taccgagttt
+       61 atgggcacgc ttccgcgtta atcatacctc tattcacacg gtcccccacc agtgtgtcta
+      121 aagacgtacc cattgaacgc gggattggtt gtgatagctg gttgtgccac taagtcctag
+      181 tcaaacgagg ctggcatccc atagcagcaa aatcgggtag taaccctcaa agacgtgccc
+      241 gacagttcat cttcctgtaa gaactattgg cttacgcacg agtctgttcg tgtatcgtct
+      301 agcggttaga ttcacctgaa ttgctatgct tctttcaatg gatcctgccc acttcacttt
+      361 tcgaaaaaag gcctcccaaa tcggggggcc ttttttattg ataacaaaaa agcggagacg
+      421 agcttgagac cactcatcgc gactagtagc ggccgctgca gtccggcaaa aaagggcaag
+      481 gtgtcaccac cctgcccttt ttctttaaaa ccgaaaagat tacttcgcgt tatgcaggct
+      541 tcctcgctca ctgactcgct gcgctcggtc gttcggctgc ggcgagcggt atcagctcac
+      601 tcaaaggcgg taatacggtt atccacagaa tcaggggata acgcaggaaa gaacatgtga
+      661 gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg cgttgctggc gtttttccac
+      721 aggctccgcc cccctgacga gcatcacaaa aatcgacgct caagtcagag gtggcgaaac
+      781 ccgacaggac tataaagata ccaggcgttt ccccctggaa gctccctcgt gcgctctcct
+      841 gttccgaccc tgccgcttac cggatacctg tccgcctttc tcccttcggg aagcgtggcg
+      901 ctttctcata gctcacgctg taggtatctc agttcggtgt aggtcgttcg ctccaagctg
+      961 ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg ccttatccgg taactatcgt
+     1021 cttgagtcca acccggtaag acacgactta tcgccactgg cagcagccac tggtaacagg
+     1081 attagcagag cgaggtatgt aggcggtgct acagagttct tgaagtggtg gcctaactac
+     1141 ggctacacta gaagaacagt atttggtatc tgcgctctgc tgaagccagt taccttcgga
+     1201 aaaagagttg gtagctcttg atccggcaaa caaaccaccg ctggtagcgg tggttttttt
+     1261 gtttgcaagc agcagattac gcgcagaaaa aaaggatctc aagaagatcc tttgatcttt
+     1321 tctacggggt ctgacgctca gtggaacgaa aactcacgtt aagggatttt ggtcatgaga
+     1381 ttatcaaaaa ggatcttcac ctagatcctt ttaaattaaa aatgaagttt taaatcaatc
+     1441 taaagtatat atgagtaaac ttggtctgac agctcgaggc ttggattctc accaataaaa
+     1501 aacgcccggc ggcaaccgag cgttctgaac aaatccagat ggagttctga ggtcattact
+     1561 ggatctatca acaggagtcc aagcgagctc gatatcaaat tacgccccgc cctgccactc
+     1621 atcgcagtac tgttgtaatt cattaagcat tctgccgaca tggaagccat cacaaacggc
+     1681 atgatgaacc tgaatcgcca gcggcatcag caccttgtcg ccttgcgtat aatatttgcc
+     1741 catggtgaaa acgggggcga agaagttgtc catattggcc acgtttaaat caaaactggt
+     1801 gaaactcacc cagggattgg ctgaaacgaa aaacatattc tcaataaacc ctttagggaa
+     1861 ataggccagg ttttcaccgt aacacgccac atcttgcgaa tatatgtgta gaaactgccg
+     1921 gaaatcgtcg tggtattcac tccagagcga tgaaaacgtt tcagtttgct catggaaaac
+     1981 ggtgtaacaa gggtgaacac tatcccatat caccagctca ccgtctttca ttgccatacg
+     2041 aaattccgga tgagcattca tcaggcgggc aagaatgtga ataaaggccg gataaaactt
+     2101 gtgcttattt ttctttacgg tctttaaaaa ggccgtaata tccagctgaa cggtctggtt
+     2161 ataggtacat tgagcaactg actgaaatgc ctcaaaatgt tctttacgat gccattggga
+     2221 tatatcaacg gtggtatatc cagtgatttt tttctccatt ttagcttcct tagctcctga
+     2281 aaatctcgat aactcaaaaa atacgcccgg tagtgatctt atttcattat ggtgaaagtt
+     2341 ggaacctctt acgtgcccga tcaactcgag tgccacctga cgtctaagaa accattatta
+     2401 tcatgacatt aacctataaa aataggcgta tcacgaggca gaatttcaga taaaaaaaat
+     2461 ccttagcttt cgctaaggat gatttctgga attcgcggcc gcttctagag cgatgagtgg
+     2521 tctcgcgct
+//
+LOCUS       3C4SI_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7fb-d2zw29j                                       
+VERSION     urn.local.igem02.7fb-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          complement(12..15)
+                     /label="LVL2 fusion site"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+ORIGIN
+        1 ggtctcgcgc taagcggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
+LOCUS       3C5CSN_EF_pMB1_camR     2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7fc-d2zw29j                                       
+VERSION     urn.local.igem02.7fc-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          38..41
+                     /label="E"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     unsure          complement(42..45)
+                     /label="LVL2 Fusion Site"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     unsure          complement(53..56)
+                     /label="F"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     terminator      94..151
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     rep_origin      complement(346..934)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     terminator      1117..1211
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             complement(1232..1891)
+                     /label="cat"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     exon            complement(1232..1891)
+                     /label="Translation 1891-1232"
+     unsure          complement(1455..1460)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          1457..1457
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    1457..1457
+                     /label="G"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     terminator      2075..2118
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+ORIGIN
+        1 gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc tcgctggaga cgagcttgag
+       61 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      121 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      181 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      241 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      301 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      361 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      421 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      481 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      541 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      601 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+      661 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+      721 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+      781 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+      841 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+      901 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+      961 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1021 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1081 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1141 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1201 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1261 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1321 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1381 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1441 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1501 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1561 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1621 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     1681 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     1741 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     1801 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     1861 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     1921 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     1981 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2041 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2101 ttcgctaagg atgatttctg
+//
+LOCUS       3C5LI_EF_pMB1_camR      2521 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7fe-d2zw29k                                       
+VERSION     urn.local.igem02.7fe-d2zw29k                                       
+FEATURES             Location/Qualifiers
+     terminator      complement(1..49)
+                     /label="L3S1P51 "
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          50..349
+                     /label="Spacer005"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     terminator      350..401
+                     /label="L3S1P52 "
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     unsure          complement(402..405)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     unsure          complement(413..416)
+                     /label="F"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      454..511
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     rep_origin      complement(706..1294)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     terminator      1477..1571
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     CDS             complement(1592..1731)
+                     /label="cat"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     exon            complement(1592..1731)
+                     /label="Translation 1731-1592"
+     CDS             complement(1700..2251)
+                     /label="cat"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     exon            complement(1700..2251)
+                     /label="Translation 2251-1700"
+     unsure          complement(1815..1820)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     unsure          1817..1817
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    1817..1817
+                     /label="G"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     terminator      2435..2478
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     unsure          2518..2521
+                     /label="E"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ttttgttatc aataaaaaag gccccccgat ttgggaggcc tttttttttg gtggtcgcat
+       61 gaagcaggcc tagtattcca acgtggtggc caattaacaa tattccaacc ccaatctgta
+      121 aaaaactgtg ccctacgcag gactcagaga acggcggaag gtaggtactc gtcttctaac
+      181 ccgacgcatt aaggctacag ggtgcgaagg ccattattgc aaactttttg ttctcaacaa
+      241 cgtaaatcta ccgcacttca ggtgtcgttc ttgatgtacg aagacggtag gcctatggat
+      301 tgccttctgt atcagcaatt tttcatctcc ttccaagcgg catccataat ctaactaaaa
+      361 aggcctccca aatcgggggg ccttttttat tgataacaaa ataccggaga cgagcttgag
+      421 accactcatc gcgactagta gcggccgctg cagtccggca aaaaagggca aggtgtcacc
+      481 accctgccct ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct
+      541 cactgactcg ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc
+      601 ggtaatacgg ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg
+      661 ccagcaaaag gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg
+      721 cccccctgac gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg
+      781 actataaaga taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac
+      841 cctgccgctt accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca
+      901 tagctcacgc tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt
+      961 gcacgaaccc cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc
+     1021 caacccggta agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag
+     1081 agcgaggtat gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac
+     1141 tagaagaaca gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt
+     1201 tggtagctct tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa
+     1261 gcagcagatt acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg
+     1321 gtctgacgct cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa
+     1381 aaggatcttc acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat
+     1441 atatgagtaa acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg
+     1501 gcggcaaccg agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat
+     1561 caacaggagt ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt
+     1621 actgttgtaa ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa
+     1681 cctgaatcgc cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga
+     1741 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+     1801 cccagggatt ggctgaaacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+     1861 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+     1921 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+     1981 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+     2041 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+     2101 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+     2161 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+     2221 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+     2281 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+     2341 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+     2401 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+     2461 ttcgctaagg atgatttctg gaattcgcgg ccgcttctag agcgatgagt ggtctcgcgc
+     2521 t
+//
+LOCUS       3C2SI_EF_pMB1_camR      2120 bp ds-DNA     circular     11-OCT-2021
+DEFINITION  .
+ACCESSION   urn.local.igem02.7f5-d2zw29j                                       
+VERSION     urn.local.igem02.7f5-d2zw29j                                       
+FEATURES             Location/Qualifiers
+     unsure          8..11
+                     /label="E"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     unsure          complement(12..15)
+                     /label="LVL2 fusion site inverted"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     unsure          complement(23..26)
+                     /label="F"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      64..121
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     rep_origin      complement(316..904)
+                     /label="pMB1"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     terminator      1087..1181
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             complement(1202..1861)
+                     /label="cat"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     exon            complement(1202..1861)
+                     /label="Translation 1861-1202"
+     unsure          complement(1425..1430)
+                     /label="BsmBI cut site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1427..1427
+                     /label="G"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     unsure          1427..1427
+                     /label="C -> A mutation manually included not verified"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     terminator      2045..2088
+                     /label="Terminator"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+ORIGIN
+        1 ggtctcgcgc tagtaggaga cgagcttgag accactcatc gcgactagta gcggccgctg
+       61 cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa aaccgaaaag
+      121 attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg tcgttcggct
+      181 gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag aatcagggga
+      241 taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc gtaaaaaggc
+      301 cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca aaaatcgacg
+      361 ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt ttccccctgg
+      421 aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc tgtccgcctt
+      481 tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc tcagttcggt
+      541 gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc ccgaccgctg
+      601 cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact tatcgccact
+      661 ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg ctacagagtt
+      721 cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta tctgcgctct
+      781 gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca aacaaaccac
+      841 cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa aaaaaggatc
+      901 tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg aaaactcacg
+      961 ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc ttttaaatta
+     1021 aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg acagctcgag
+     1081 gcttggattc tcaccaataa aaaacgcccg gcggcaaccg agcgttctga acaaatccag
+     1141 atggagttct gaggtcatta ctggatctat caacaggagt ccaagcgagc tcgatatcaa
+     1201 attacgcccc gccctgccac tcatcgcagt actgttgtaa ttcattaagc attctgccga
+     1261 catggaagcc atcacaaacg gcatgatgaa cctgaatcgc cagcggcatc agcaccttgt
+     1321 cgccttgcgt ataatatttg cccatggtga aaacgggggc gaagaagttg tccatattgg
+     1381 ccacgtttaa atcaaaactg gtgaaactca cccagggatt ggctgaaacg aaaaacatat
+     1441 tctcaataaa ccctttaggg aaataggcca ggttttcacc gtaacacgcc acatcttgcg
+     1501 aatatatgtg tagaaactgc cggaaatcgt cgtggtattc actccagagc gatgaaaacg
+     1561 tttcagtttg ctcatggaaa acggtgtaac aagggtgaac actatcccat atcaccagct
+     1621 caccgtcttt cattgccata cgaaattccg gatgagcatt catcaggcgg gcaagaatgt
+     1681 gaataaaggc cggataaaac ttgtgcttat ttttctttac ggtctttaaa aaggccgtaa
+     1741 tatccagctg aacggtctgg ttataggtac attgagcaac tgactgaaat gcctcaaaat
+     1801 gttctttacg atgccattgg gatatatcaa cggtggtata tccagtgatt tttttctcca
+     1861 ttttagcttc cttagctcct gaaaatctcg ataactcaaa aaatacgccc ggtagtgatc
+     1921 ttatttcatt atggtgaaag ttggaacctc ttacgtgccc gatcaactcg agtgccacct
+     1981 gacgtctaag aaaccattat tatcatgaca ttaacctata aaaataggcg tatcacgagg
+     2041 cagaatttca gataaaaaaa atccttagct ttcgctaagg atgatttctg gaattcgcgg
+     2101 ccgcttctag agcgatgagt
+//
