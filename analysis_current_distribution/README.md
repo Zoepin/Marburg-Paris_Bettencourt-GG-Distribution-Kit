@@ -8,5 +8,6 @@ The data presented here is part of our project to closely analyse the current di
 | distribution2021      | An in silico version of all parts in the 2021 distribution kit |
 | plasmids   | Contains reannotions of all plasmids currently used in the 2021 distribution kit|
 | iGEM Distribution Presentation.pdf | Findings we presented to the iGEM Headquarter |
+| iGEM Distribution 2021-Grid view.csv | Raw data of the Airtable |
 
 
